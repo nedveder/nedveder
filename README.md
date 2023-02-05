@@ -1,11 +1,11 @@
-<div align="center">
-  
-</div>
+
 
 <div align="center">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nedveder&show_icons=true&hide=issues&count_private=true&theme=darcula" />
 </div>
-
+<div align="center">
+  <img src="https://projecteuler.net/profile/Nedved2357.png" width="150px" height="50px"/>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
