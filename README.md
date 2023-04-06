@@ -29,7 +29,7 @@
 
 - 🎓 BSc Computer Science & Mathematics @ <a href="https://new.huji.ac.il/"> The Hebrew University of Jerusalem</a>
 
-- 📚 Currently learning Computational Models and Computability and Complexity , Game theory , Introduction to Machine Learning
+- 📚 Currently learning Computational Models and Computability and Complexity , Introduction to Machine Learning And Functional analysis
   
 - ❗ Interested in:
   - Machine Learning
